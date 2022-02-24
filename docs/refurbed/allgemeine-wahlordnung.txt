@@ -18,6 +18,23 @@ A - Allgemeines
     (2)
         Abweichend von § 8 Abs. 1 der allgemeinen Wahlordnung von Volt Deutschland besteht die Zählkommission, bei der Wahl von Kandidierenden für staatliche Wahlen durch eine Vertreter-/Mitgliederversammlung zu der nicht mehr als 10 wahlberechtigte Parteimitglieder eingeladen sind, aus einem/einer Leiter*in und einer weiteren Person.
 
+§ 4 - Wahlen auf Online Parteitagen
+    Tagt der Landesparteitag als Online-Parteitag, können geheim durchzuführende Wahlen, soweit sie ordnungsgemäß in der Einladung angekündigt wurden, auch als Nicht-Präsenzwahl durchgeführt werden.
+    Hierüber beschließt der Online-Parteitag mit einer Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
+    Sodann beschließt er mit einfacher Mehrheit der abgegebenen gültigen Stimmen, ob die Wahlen entweder vollständig im Wege der Briefwahl oder im Wege der elektronischen Kommunikation mit anschließender Briefwahl durchgeführt werden.
+    Für die Durchführung der unterschiedlichen Wahlverfahren gilt:
+        1.
+            Erfolgt die Wahl vollständig im Wege der Briefwahl, so behalten die für die jeweiligen Ämter vorgesehenen Wahlverfahren ihre Gültigkeit.
+            Alternativ kann die Versammlung beschließen, einzelne oder alle Ämter in Einzelwahl zu besetzen.
+        2.
+            Erfolgt die Wahl im Wege der Online-Abstimmung mit anschließender Schlussabstimmung per Briefwahl, so behalten die für die jeweiligen Ämter vorgesehenen Wahlverfahren für die Durchführung der Online-Abstimmung ihre Gültigkeit.
+            Ist eine technische Umsetzung des konkreten Wahlverfahrens nicht möglich, kann die Versammlung beschließen, die Online-Wahl stattdessen im Wege der Einzelwahl nach § 19 der Allgemeinen Wahlordnung von Volt Deutschland durchzuführen.
+            Die Ergebnisse der Online-Abstimmung sind für jede*n gewählte*n Kandidat*in im Wege der Briefwahl zu bestätigen (Schlussabstimmung).
+            Wird ein*e Kandidat*in nicht bestätigt, so ist die Wahl für dieses Amt auf dem nächsten Parteitag zu wiederholen.
+            Die Vorstellung der Kandidierenden erfolgt jeweils im Rahmen des Online-Parteitages mittels geeigneter elektronischer Kommunikationsmitteln.
+            Über die Einzelheiten der Durchführung der Briefwahl beschließt die Versammlung.
+            Den Stimmberechtigten ist dabei insbesondere eine angemessene Mindestfrist zum Rückversand der Briefwahlunterlagen einzuräumen, die jedenfalls 10 Tage ab dem Tag der Versammlung nicht unterschreiten darf.
+            Die Anwendbarkeit dieses Paragrafen steht unter Vorbehalt der gesetzlichen Zulässigkeit.
 
 B - Wahlen des Landesvorstands
 
@@ -42,26 +59,21 @@ B - Wahlen des Landesvorstands
 
 C - Wahl der Landesdelegierten für den Bundesparteitag
 
-
+§ 7 - Wahlsystem
+    (1)
+        Die Wahl der Landesdelegierten für den Bundesparteitag nach § 15 der Satzung von Volt Deutschland findet auf mindestens einmalig in jedem Jahr auf einem ordentlichen Landesparteitag des Landesverbands statt.
+    (2)
+        Über den Prozess einer Wahl einer Vorabliste für die Schlussabstimmung nach § 8 stimmt der Landesparteitag auf Vorschlag der Versammlungsleitung ab.
+        Für den Antrag über den Prozess der Wahl sind Änderungsanträge ohne die Notwendigkeit der Wahrung einer Frist oder der Sammlung von Unterstützungsunterschriften zuzulassen.
+        Es muss mindestens eine Pro- und Gegenrede eines jeden Geschlechts zugelassen werden.
+    (3)
+        Der in Absatz 2 beschriebene Prozess kann die Durchführung von geheimen Abstimmungen enthalten.
     (4)
-        Bei Aufstellungen von Listen für Bundestags-, Landtags- oder Kommunalwahlen ist im Falle der Besetzung der einzelnen Listenpositionen in einem anderen Wahlverfahren als dem der §§ 22 bis 25 der allgemeinen Wahlordnung von Volt Deutschland zwingend sicherzustellen, dass zwei aufeinanderfolgende Listenplätze nicht von zwei Personen desselben Geschlechts besetzt werden können.
-        Eine Abweichung kann erfolgen, wenn sich nur noch Kandidat*innen eines Geschlechts für die verbleibenden Listenplätze bewerben und die Aufstellungsversammlung einen entsprechenden Beschluss trifft.
+        Der nach Absatz 2 beschlossene Prozess wird nach dem Beschluss, als nächster Punkt, Teil der Tagesordnung.
     (5)
-        Tagt der Landesparteitag als Online-Parteitag, können geheim durchzuführende Wahlen, soweit sie ordnungsgemäß in der Einladung angekündigt wurden, auch als Nicht-Präsenzwahl durchgeführt werden.
-        Hierüber beschließt der Online-Parteitag mit einer Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
-        Sodann beschließt er mit einfacher Mehrheit der abgegebenen gültigen Stimmen, ob die Wahlen entweder vollständig im Wege der Briefwahl oder im Wege der elektronischen Kommunikation mit anschließender Briefwahl durchgeführt werden.
-        Für die Durchführung der unterschiedlichen Wahlverfahren gilt:
-            1.
-                Erfolgt die Wahl vollständig im Wege der Briefwahl, so behalten die für die jeweiligen Ämter vorgesehenen Wahlverfahren ihre Gültigkeit.
-                Alternativ kann die Versammlung beschließen, einzelne oder alle Ämter in Einzelwahl zu besetzen.
-            2.
-                Erfolgt die Wahl im Wege der Online-Abstimmung mit anschließender Schlussabstimmung per Briefwahl, so behalten die für die jeweiligen Ämter vorgesehenen Wahlverfahren für die Durchführung der Online-Abstimmung ihre Gültigkeit.
-                Ist eine technische Umsetzung des konkreten Wahlverfahrens nicht möglich, kann die Versammlung beschließen, die Online-Wahl stattdessen im Wege der Einzelwahl nach § 19 der Allgemeinen Wahlordnung durchzuführen.
-                Die Ergebnisse der Online-Abstimmung sind für jede*n gewählte*n Kandidat*in im Wege der Briefwahl zu bestätigen (Schlussabstimmung).
-                Wird ein*e Kandidat*in nicht bestätigt, so ist die Wahl für dieses Amt auf dem nächsten Parteitag zu wiederholen.
-                Die Vorstellung der Kandidierenden erfolgt jeweils im Rahmen des Online-Parteitages mittels geeigneter elektronischer Kommunikationsmitteln.
-                Über die Einzelheiten der Durchführung der Briefwahl beschließt die Versammlung.
-                Den Stimmberechtigten ist dabei insbesondere eine angemessene Mindestfrist zum Rückversand der Briefwahlunterlagen einzuräumen, die jedenfalls 10 Tage ab dem Tag der Versammlung nicht unterschreiten darf.
-                Die Anwendbarkeit dieses Paragrafen steht unter Vorbehalt der gesetzlichen Zulässigkeit.
-    (6)
-        Die Landesdelegierten zum Bundesparteitag gemäß § 15 der Satzung von Volt Deutschland werden abweichend von §§ 38 bis 41 der allgemeinen Wahlordnung von Volt Deutschland nach den Absätzen 7 bis 12 dieser Satzung gewählt.
+        Die §§ 36 und 37 der Allgemeinen Wahlordnung von Volt Deutschland bleiben unberührt.
+
+§ 8 - Schlussabstimmung
+    (1)
+        Über die durch den nach § 7 ermittelte Vorabliste wird in einer abschließenden Schlussabstimmung, ohne Debatte, nach § 8 der Allgemeinen Wahlordnung abgestimmt.
+        Die Möglichkeit Änderungsanträge für diese Schlussabstimmung zu stellen besteht nicht.
