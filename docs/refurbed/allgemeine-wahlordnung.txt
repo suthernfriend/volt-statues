@@ -1,6 +1,6 @@
 Allgemeine Wahlordnung von Volt Deutschland Landesverband Baden-Württemberg
 
-A - Allgemeines
+A | Allgemeines
 
 § 1 - Grundsätzliches
     (1)
@@ -14,7 +14,7 @@ A - Allgemeines
 
 § 3 - Anwendung der allgemeinen Wahlordnung von Volt Deutschland
     (1)
-        Die §§ 3 bis 29, sowie die §§ 36 und 37 der allgemeinen Wahlordnung von Volt Deutschland gelten, soweit anwendbar, entsprechend.
+        Die §§ 3 bis 14, die §§ 16 bis 29, sowie die §§ 36 und 37 der allgemeinen Wahlordnung von Volt Deutschland gelten, soweit anwendbar, entsprechend.
     (2)
         Abweichend von § 8 Abs. 1 der allgemeinen Wahlordnung von Volt Deutschland besteht die Zählkommission, bei der Wahl von Kandidierenden für staatliche Wahlen durch eine Vertreter-/Mitgliederversammlung zu der nicht mehr als 10 wahlberechtigte Parteimitglieder eingeladen sind, aus einem/einer Leiter*in und einer weiteren Person.
 
@@ -36,9 +36,14 @@ A - Allgemeines
             Den Stimmberechtigten ist dabei insbesondere eine angemessene Mindestfrist zum Rückversand der Briefwahlunterlagen einzuräumen, die jedenfalls 10 Tage ab dem Tag der Versammlung nicht unterschreiten darf.
             Die Anwendbarkeit dieses Paragrafen steht unter Vorbehalt der gesetzlichen Zulässigkeit.
 
-B - Wahlen des Landesvorstands
+§ 5 - Geschlechterbestimmung
 
-§ 4 - Wahl der Vorsitzenden
+    Soweit in der Satzung auf das Geschlecht einer Person abgestellt wird, so bestimmt sich dieses durch die persönliche Entscheidung des Mitglieds.
+    Es ist insbesondere möglich, dass sich ein Mitglied unabhängig von seiner personenstandsrechtlichen Geschlechtszuordnung einem anderen oder dem diversen Geschlecht zuordnet.
+
+B | Wahlen des Landesvorstands
+
+§ 6 - Wahl der Vorsitzenden
     (1)
         Die Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland..
         Ist eine Person zum / zur Vorsitzenden gewählt, so sind zur Wahl des zweiten Amts des / der Vorsitzenden nur die Wahlbewerber*innen zugelassen, die nicht dem Geschlecht des / der bereits gewählten Vorsitzenden angehören.
@@ -46,10 +51,10 @@ B - Wahlen des Landesvorstands
         Bewerben sich Wahlbewerber*innen nur zweier Geschlechter auf das Amt der KoVorsitzenden, so erfolgen die Wahlen der Ko-Vorsitzenden nach Geschlechtern getrennt in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland..
         Diese Wahlen können in gemeinsamen Wahlgängen abgehalten werden.
 
-§ 5 - Wahl der Schatzmeisters / der Schatzmeisterin
+§ 7 - Wahl der Schatzmeisters / der Schatzmeisterin
     Die Schatzmeisterin / Der Schatzmeister wird in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland gewählt.
 
-§ 6 - Wahl der stellvertretenden Vorsitzenden
+§ 8 - Wahl der stellvertretenden Vorsitzenden
     (1)
         Die stellvertretenden Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland..
         Ist eine Person zum / zur stellvertretenden Vorsitzenden gewählt, so sind zur Wahl des zweiten Amts des / der stellvertretenden Vorsitzenden nur die Wahlbewerber*innen zugelassen, die nicht dem Geschlecht des / der bereits gewählten stellvertretenden Vorsitzenden angehören.
@@ -57,15 +62,15 @@ B - Wahlen des Landesvorstands
         Bewerben sich Wahlbewerber*innen nur zweier Geschlechter auf das Amt der Vorsitzenden, so erfolgen die Wahlen der Vorsitzenden nach Geschlechtern getrennt in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland.
         Diese Wahlen können in gemeinsamen Wahlgängen abgehalten werden.
 
-C - Wahl der Landesdelegierten für den Bundesparteitag
+C | Wahl der Landesdelegierten für den Bundesparteitag
 
-§ 7 - Wahlsystem
+§ 9 - Wahlsystem
     (1)
         Die Wahl der Landesdelegierten für den Bundesparteitag nach § 15 der Satzung von Volt Deutschland findet auf mindestens einmalig in jedem Jahr auf einem ordentlichen Landesparteitag des Landesverbands statt.
         Die Frist zur Bewerbung als Landesdelegierten für den Bundesparteitag folgt der Frist für Sachanträge.
         Der Landesparteitag kann durch einen Geschäftsordnungsantrag, welcher mit zweidrittel Mehrheit angenommen werden muss, auch noch Kandidaturen auf dem Parteitag zulassen.
     (2)
-        Die Wahl findet durch ein auf der Versammlung zu beschließenden Verfahren statt, welches eine Vorabliste wählt, welche dann durch die in § 8 beschriebene Schlussabstimmung, mit einfacher Mehrheit beschlossen wird.
+        Die Wahl findet durch ein auf der Versammlung zu beschließenden Verfahren statt, welches eine Vorabliste wählt, welche dann durch die in § 10 beschriebene Schlussabstimmung, mit einfacher Mehrheit beschlossen wird.
         Die Versammlungsleitung schlägt hierfür ein Wahlverfahren vor.
         Für das Verfahren zur Wahl sind Änderungsanträge, ohne die Notwendigkeit der Wahrung einer Frist, oder der Sammlung von Unterstützungsunterschriften zuzulassen.
         Mindestens eine Pro- und Gegenrede eines jeden Geschlechts muss zugelassen werden.
@@ -78,7 +83,7 @@ C - Wahl der Landesdelegierten für den Bundesparteitag
     (5)
         Wird das vorgeschlagene Wahlverfahren von der Versammlung abgelehnt, werden die Landesdelegierten für den Bundesparteitag nach §§ 38 bis 41 der Allgemeinen Wahlordnung von Volt Deutschland gewählt.
 
-§ 8 - Schlussabstimmung
+§ 10 - Schlussabstimmung
     (1)
-        Über die, durch die nach § 7 gewählte Vorabliste, wird in einer abschließenden Schlussabstimmung, ohne Debatte, abgestimmt.
+        Über die, durch die nach § 9 gewählte Vorabliste, wird in einer abschließenden Schlussabstimmung, ohne Debatte, abgestimmt.
         Die Möglichkeit Änderungsanträge für die Schlussabstimmung zu stellen besteht nicht.

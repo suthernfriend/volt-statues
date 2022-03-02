@@ -61,8 +61,8 @@ Präambel
     (3)
         Für die Einreichung von Anträgen zur Änderung der Tagesordnung, Sachanträgen und Wahlvorschlägen gelten die Bestimmungen des § 14 Abs. 5 und 6 der Satzung.
 
-§ 4a
-    Antragsberechtigung für Änderungsanträge auf der Mitgliederversammlung Antragsberechtigt für Änderungsanträge auf dem Landesparteitag ist jede/jeder stimmberechtigte Teilnehmer*in der Versammlung.
+§ 4a Antragsberechtigung für Änderungsanträge auf der Mitgliederversammlung
+    Antragsberechtigt für Änderungsanträge auf dem Landesparteitag ist jede/jeder stimmberechtigte Teilnehmer*in der Versammlung.
 
 § 5 Sachanträge
     (1)
@@ -73,7 +73,8 @@ Präambel
         Sie sind in der Regel vor Befassung des Antrages, auf den sie sich beziehen, schriftlich auf dem Landesparteitag einzubringen.
         Sie können unbeschadet des S. 2 ohne Beachtung einer besonderen Frist eingebracht werden.
     (3)
-        Der weitestgehende Änderungsantrag ist zuerst abzustimmen. Auf Antrag ist es möglich, Anträge alternativ abzustimmen bzw. Meinungsbilder über verschiedene alternative Anträge zu erstellen.
+        Der weitestgehende Änderungsantrag ist zuerst abzustimmen.
+        Auf Antrag ist es möglich, Anträge alternativ abzustimmen bzw. Meinungsbilder über verschiedene alternative Anträge zu erstellen.
         Danach folgt die Schlussabstimmung.
 
 § 6 Dringlichkeitsanträge

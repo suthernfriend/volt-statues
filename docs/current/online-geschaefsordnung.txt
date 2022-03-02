@@ -1,0 +1,200 @@
+Online-Geschäftsordnung von Volt Deutschland Landesverband Baden-Württemberg
+
+Präambel
+    Diese Geschäftsordnung regelt die Durchführung der ordentlichen und außerordentlichen Landesparteitage von Volt Deutschland Landesverband Baden-Württemberg (im Nachfolgenden kurz: “Volt”), die rein digital und ohne Anwesenheit von Mitgliedern an einem gemeinsamen Versammlungsort stattfinden (“Online-Parteitag”).
+    Ergänzend gelten die Bestimmungen der Satzung von Volt (“Satzung”).
+    Bei Konflikten geht die Satzung dieser Geschäftsordnung vor.
+    Online-Parteitage sind nach demokratischen Grundsätzen durchzuführen und haben die Prinzipien der Transparenz, Gleichheit, Inklusion, Partizipation und Gerechtigkeit zu wahren.
+    Bei der Auswahl der Softwaretools ist darauf zu achten, dass eine gleichberechtigte Teilhabe von Mitgliedern sämtlicher technischer Fertigkeitsniveaus ermöglicht wird.
+
+§ 1 Stimmberechtigung und Beschlussfähigkeit
+    (1)
+        Stimmberechtigt ist jedes zum Zeitpunkt der Mandatsprüfung aufgenommene, am Online-Parteitag anwesende Mitglied von Volt, soweit sich nicht aus den geltenden Gesetzen, der Satzung von Volt oder einer einschlägigen Wahlordnung etwas anderes ergibt.
+    (2)
+        Die Mandatsprüfung auf Online-Parteitagen erfolgt durch die Mandatsprüfungskommission, die vom Landesvorstand berufen wird und mindestens drei Mitglieder hat.
+        Die Prüfung erfolgt durch Versendung von individuellen Tokens an die Volt-E-Mail-Adressen der registrierten Mitglieder und den Abgleich mit der Mitgliederliste von Volt der über den Token eingeloggten Mitglieder.
+        Sie stellt die Stimmberechtigung fest.
+    (3)
+        Die Mandatsprüfung ist in geeigneter Form zu dokumentieren und bei Volt zu hinterlegen.
+    (4)
+        Der Online-Parteitag ist nach § 14 Abs. 7 der Satzung unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
+
+§ 2 Versammlungsleitung
+    (1)
+        Der Landesvorstand schlägt eine Versammlungsleitung vor.
+        Der Online-Parteitag wählt die Versammlungsleitung mit einfacher Mehrheit in offener Abstimmung.
+        Die Mitglieder der Versammlungsleitung dürfen nicht dem Vorstand angehören.
+        Findet sich keine einfache Mehrheit für den Vorschlag des Landesvorstandes, ist jeder stimmberechtigte Versammlungsteilnehmer vorschlagsberechtigt.
+        Der Landesvorstand ernennt die technischen Administrator*innen für die Durchführung des Online-Parteitags.
+    (2)
+        Die Versammlungsleitung besteht aus einem*einer Vorsitzenden sowie einem*einer Schriftführer*in.
+        Bei Bedarf kann die Versammlung zusätzlich bis zu zwei stellvertretende Versammlungsleiter*innen sowie bis zu eine/einen stellvertretende*n Schriftführer*in bestimmen.
+    (3)
+        Die Versammlungsleitung leitet die Durchführung des Online-Parteitags nach gültiger Satzung und dieser Geschäftsordnung; sie leitet die Debatte sachorientiert.
+        Sie überwacht und leitet die technische Durchführung.
+        Sie leitet die Abstimmungen und die Wahlen, sofern nicht die einschlägige Wahlordnung etwas anderes bestimmt.
+        Sie entscheidet über die Zulassung von Anträgen, sofern die Geschäftsordnung keine Regelung vorsieht.
+        Sie führt die Render*innen-Liste , erteilt das Wort und kann dieses entziehen.
+        Bei grober Verletzung der Ordnung oder der Würde des Online-Parteitags kann die Versammlungsleitung ein Mitglied zur Ordnung rufen und bei wiederholten Verstößen das Mitglied temporär oder für die Dauer des Online-Parteitags von der aktiven Teilnahme an diesem ausschließen.
+
+§ 3 Tagesordnung
+    (1)
+        Der Landesvorstand beruft den Online-Parteitag unter Angabe einer vorläufigen Tagesordnung nach § 13 Abs. 3 der Satzung ein.
+    (2)
+        Der Landesvorstand beruft mit der Einladung für den Online-Parteitag eine Antragskommission ein.
+        Die Anzahl der Mitglieder der Antragskommission soll vom Landesvorstand angemessen gewählt werden.
+        Die Mitglieder der Antragskommission dürfen nicht dem Vorstand angehören.
+        Die Antragskommission prüft alle eingegangenen Anträge auf deren frist- und formgerechten Eingang, entscheidet gemäß Satzung und Geschäftsordnung über ihre Zulassung und gibt dem Online-Parteitag eine Empfehlung zur Reihenfolge der Antragsbearbeitung.
+        Die Reihenfolge der Antragsbefassung kann dabei insbesondere auch von der Anzahl der für diesen Antrag eingereichten Unterstützungsbekundungen abhängig gemacht werden.
+        Diese Empfehlung stellt der Landesvorstand den Mitgliedern als vorläufige Tagesordnung fünf Tage vor dem Online-Parteitag zur Ansicht bereit.
+    (3)
+        Der Online-Parteitag stimmt über die Empfehlung der Antragskommission mit einfacher Mehrheit ab.
+        Kommt diese nicht zustande, stimmt der Online-Parteitag über die Reihenfolge der Anträge ab.
+    (4)
+        Anträge, die nicht frist- und formgemäß eingegangen sind, können nur im Wege eines Dringlichkeitsantrags eingebracht werden.
+        Stellt der Online-Parteitag die Dringlichkeit fest, wird der dringliche Antrag Gegenstand der Tagesordnung.
+
+§ 4 Antragstellung
+    (1)
+        Antragsberechtigt sind:
+        (a)
+            der Vorstand des Landesverbandes
+        (b)
+            der/die Landesschatzmeister/in für in seine/ihre nach der Finanzordnung festgelegten Aufgabenbereiche fallende Anträge
+        (c)
+            die Vorstände der Kreisverbände im Gebiet des Landesverbandes
+        (d)
+            die Mitgliederversammlungen der Kreisverbände im Gebiet des Landesverbandes
+        (e)
+            eine Gruppe von mindestens fünf Mitgliedern von Volt.
+    (2)
+        Die Antragsteller*innen nach Absatz 1 sollen eine Person und eine*n Stellvertreter*in zur Vorstellung und Begründung des Antrages bestimmen.
+        Sie sollen zudem eine Person und eine*n Stellvertreter*in bestimmen, die berechtigt sind, im Namen der Antragsteller*innen über den Antrag zu verfügen; umfasst ist insbesondere das Recht, den Antrag zurückzuziehen, sowie Änderungsanträge zu übernehmen.
+    (3)
+        Anträge sind in der Regel vor Beginn des Online-Parteitags per E-Mail bei der Antragskommission, danach bei der Versammlungsleitung einzureichen; Geschäftsordnungsanträge sind stets bei der Versammlungsleitung einzureichen.
+    (4)
+        Für die Einreichung von Anträgen zur Änderung der Tagesordnung, Sachanträgen und Wahlvorschlägen gelten die Bestimmungen des § 14 Abs. 5 und 6 der Satzung.
+
+§ 4a Antragsberechtigung für Änderungsanträge auf dem Online-Parteitag
+    Antragsberechtigt für Änderungsanträge auf dem Online-Parteitag ist jedes Mitglied.
+
+§ 5 Sachanträge
+    (1)
+        Sachanträge sind Anträge, die darauf gerichtet sind, die inhaltliche Befassung des Online-Parteitages mit einem bestimmten Gegenstand herbeizuführen.
+        Sie können auf eine Beschlussfassung des Online-Parteitages über einen solchen Gegenstand gerichtet sein (Beschlussantrag).
+    (2)
+        Änderungsanträge sind Anträge, die sich auf den Gegenstand eines Beschlussantrags beziehen, der bereits Gegenstand der Tagesordnung ist, und von der Beschlussvorlage abweichen.
+        Sie sind in der Regel vor Befassung des Antrages, auf den sie sich beziehen, per E-Mail auf dem Online-Parteitag einzubringen.
+        Sie können unbeschadet des S. 2 ohne Beachtung einer besonderen Frist eingebracht werden.
+    (3)
+        Der weitestgehende Änderungsantrag ist zuerst abzustimmen.
+        Auf Antrag ist es möglich, Anträge alternativ abzustimmen bzw. Meinungsbilder über verschiedene alternative Anträge zu erstellen.
+        Danach folgt die Schlussabstimmung.
+
+§ 6 Dringlichkeitsanträge
+    (1)
+        Dringlichkeitsanträge sind Sachanträge, die unter Berufung auf ihre besondere Dringlichkeit nach Ablauf der Antragsfrist eingebracht werden und auf die Hinzufügung eines neuen Tagesordnungspunktes oder die Einbringung eines Sachantrages gerichtet sind.
+    (2)
+        Bei Dringlichkeitsanträgen ist die Dringlichkeit des Antrages von dem/der Antragsteller*in zu begründen.
+        Über die Dringlichkeit eines Antrages beschließt der Online-Parteitag mit einfacher Mehrheit der abgegebenen Stimmen.
+    (3)
+        Vom Online-Parteitag zur Befassung angenommene Dringlichkeitsanträge sind zuerst zu behandeln; bei mehreren Dringlichkeitsanträgen werden diese in der Reihenfolge der Antragsbeschließung behandelt.
+
+§ 7 Anträge zur Geschäftsordnung
+    (1)
+        Anträge zur Geschäftsordnung sind Anträge, die den Ablauf der Versammlung betreffen, ohne Sachantrag zu sein.
+    (2)
+        Anträge zur Geschäftsordnung sind nicht fristgebunden und können jederzeit gestellt werden.
+    (3)
+        Anträge zur Geschäftsordnung sind über das zu verwendende Softwaretool durch die Mitglieder anzuzeigen und durch die Versammlungsleitung umgehend, spätestens jedoch nach Beendigung des aktuellen Redebeitrages, zu behandeln.
+        Zu ihnen soll je eine Pro-und Gegenrede zugelassen werden.
+    (4)
+        Der Antrag zur erneuten Aussprache und Beschlussfassung über einen bereits abgeschlossenen Tagesordnungspunkt (Rückholungsantrag) ist über das zu verwendende Softwaretool bei der Versammlungsleitung zu stellen.
+        Der Antrag wird mit zwei Dritteln der anwesenden Stimmberechtigten angenommen.
+
+§ 8 Abstimmungen
+    (1)
+        Abstimmungen über Anträge werden grundsätzlich über das nach § 13 zur Verfügung gestellte Softwaretool durchgeführt.
+        Sie entsprechen den in der Wahlordnung vorgesehenen Abstimmungen per Handzeichen.
+        Als abgegeben gilt diejenige Stimmoption, welche zum Zeitablauf der Abstimmung zuletzt vom abstimmenden Mitglied an die Versammlungsleitung übermittelt wurde.
+        Die Mindestabstimmungszeit beträgt 30 Sekunden.
+    (2)
+        Geschäftsordnungsanträge auf schriftliche Abstimmung sind unzulässig; jedoch kann durch einfache Mehrheit der abgegebenen Stimmen beschlossen werden, dass die Abstimmung über einen Antrag auf den nächsten Präsenzparteitag zu vertagen ist, wo über diesen schriftlich abzustimmen ist.
+    (3)
+        Der Online-Parteitag fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit in der Satzung oder dieser Geschäftsordnung nicht etwas Anderes bestimmt ist.
+        Stimmenthaltungen und ungültig abgegebene Stimmen zählen als nicht abgegebene Stimmen.
+    (4)
+        Für die Überwachung der Online-Abstimmungen wird zu Beginn des Online-Parteitages eine Zählkommission mit mindestens drei Mitgliedern auf Vorschlag der Versammlungsleitung gewählt.
+        Die Mitglieder der Zählkommission dürfen auf dem Online-Parteitag nicht für ein Amt oder eine Kandidatur für staatliche Wahlen kandidieren.
+    (5)
+        Die Versammlungsleitung stellt das Ergebnis der Abstimmung fest.
+        Die Mitglieder müssen ebenso wie die Versammlungsleitung das Abstimmungsergebnis erkennen können.
+
+§ 9 Wahlen
+    Wahlen finden auf dem Online-Parteitag nur insoweit statt, als dass das Parteiengesetz offene Wahlen zulässt.
+    Sofern Wahlen auf dem Online-Parteitag stattfinden, werden sie nach den Vorgaben der Wahlordnung von Volt Deutschland durchgeführt.
+    Die Bestimmungen dieser Geschäftsordnung gelten ergänzend, soweit sie der Satzung oder der Wahlordnung nicht widersprechen.
+
+§ 10 Redebeiträge
+    (1)
+        Alle stimmberechtigten Teilnehmer*innen der Versammlung besitzen das Rederecht.
+    (2)
+        Die Redezeit für Diskussionsbeiträge wird von der Versammlungsleitung festgelegt.
+        Die Redezeit kann auf Antrag zur Geschäftsordnung durch den Online-Parteitag verkürzt, verlängert oder ihre Begrenzung aufgehoben werden.
+    (3)
+        Antragsteller*innen haben grundsätzlich das Recht, ihren Antrag vorzustellen und zu begründen.
+        Sie können sich dabei von einer anderen Person vertreten lassen.
+    (4)
+        Der Landesparteitag kann aus Zeitgründen mit einfacher Mehrheit beschließen, die Aussprache über einzelne oder mehrere Anträge auf eine Pro-Rede des Antragstellers*der Antragstellerin und eine Gegenrede zu beschränken.
+    (5)
+        Wortmeldungen sind bei der Versammlungsleitung durch Meldung über das zu verwendende Softwaretool anzuzeigen.
+    (6)
+        Für Zwischenfragen an den*die Redner*in und für Zwischenbemerkungen in der Aussprache über einen Verhandlungsgegenstand melden sich die Mitglieder des Online-Parteitags bei der Versammlungsleitung über das zu verwendende Softwaretool.
+        Zwischenfragen sind kurz und präzise zu halten und dürfen erst gestellt werden, wenn der*die Redner*in sie auf eine entsprechende Frage der Versammlungsleitung zulässt.
+        Die Bemerkungen sind als Frage zu formulieren; anderweitige Anmerkungen und Kommentare können von der Versammlungsleitung unterbunden werden.
+        Zwischenfragen werden von der Versammlungsleitung über das Softwaretool gesammelt und am Ende des jeweiligen Redebeitrages an den Redner gestellt.
+        Die Versammlungsleitung kann sich wiederholende oder zwischenzeitlich erledigte Zwischenfragen überspringen.
+        Das Überspringen von Zwischenfragen hat die Versammlungsleitung dem Parteitag mitzuteilen.
+    (7)
+        Die Versammlungsleitung führt die Redner*innen-Liste getrennt nach Männern und Divers (Liste 1) und Frauen und Divers (Liste 2).
+        Satz 1 ist so zu lesen, dass Personen, die entsprechend § 22 Absatz 3 und § 45b Absatz 1 Personenstandsgesetz weder dem männlichen noch dem weiblichen Geschlecht zugeordnet werden können (“Diverse”), frei entscheiden können, auf welcher der genannten Listen sie geführt werden möchten.
+        Eine Zuordnung diverser Personen entweder zum männlichen oder zum weiblichen Geschlecht geht mit dieser Auswahl ausdrücklich nicht einher.
+        Die Render*innen der beiden Listen reden abwechselnd, soweit nicht eine Liste erschöpft ist.
+    (8)
+        Die Aussprache kann auf Antrag zur Geschäftsordnung durch den Online-Parteitag im Voraus zeitlich begrenzt werden.
+        Nach Ablauf dieser Zeit wird die Aussprache unabhängig von der noch offenen Rednerliste beendet.
+        Auf Antrag beschließt der Online-Parteitag die Verlängerung der Aussprache mit einfacher Mehrheit der abgegebenen Stimmen.
+
+§ 11 Gäste
+    (1)
+        Gemäß § 13 Absatz 6 der Satzung kann der Online-Parteitag Nicht-Mitgliedern das Rederecht erteilen.
+    (2)
+        Online-Parteitage stehen Vertreter*innen der Presse offen.
+
+§ 12 Protokoll
+    (1)
+        Über die Ergebnisse des Online-Parteitages und Sitzungen ist ein Protokoll zu erstellen, dass spätestens nach 14 Tagen den Mitgliedern zur Kenntnis gegeben wird.
+        Einsprüche zum Protokoll sind an den Landesvorstand zu richten und bis zu 4 Wochen nach Veröffentlichung möglich, danach gilt das Protokoll als genehmigt.
+    (2)
+        Die Protokollierung obliegt den Schriftführer*innen.
+
+§ 13 Softwaretools und Störungsfälle
+    (1)
+        Der Landesvorstand fügt der Einladung zum Online-Parteitag eine Bedienungsanleitung für die Nutzung der für die Teilnahme notwendigen Softwaretools bei; die Softwaretools müssen so gestaltet sein, dass ihre Nutzung ohne besondere Vorkenntnisse in angemessener Zeit erlernbar ist und eine möglichst große Anzahl von Mitgliedern die technisch notwendigen Geräte zu deren Nutzung vorhält.
+        Die Softwaretools sind allen Mitgliedern über einen Hyperlink zugänglich zu machen.
+    (2)
+        Die Versammlungsleitung stellt die ordnungsgemäße Übertragung und technische Administration des Online-Parteitages sicher.
+        Es obliegt den einzelnen Mitgliedern sicherzustellen, dass sie über die notwendigen technischen Einrichtungen für den Betrieb verfügen und den Umgang mit den wesentlichen Funktionen der Softwaretools beherrschen.
+    (3)
+        Ein Störungsfall liegt vor, wenn der bestimmungsgemäße Betrieb der notwendigen Softwaretools gestört ist.
+        Im Störungsfall kann ein Mitglied auftretende Probleme der Versammlungsleitung melden.
+        Zuvor obliegt es dem Mitglied selbstständig auszuschließen, dass die Störung aus seiner eigenen Sphäre stammt.
+        Sofern die Störung aus dem Verantwortungsbereich der Versammlungsleitung stammt, hat die Versammlungsleitung diese zu beheben; Störungen aus der Sphäre des Mitglieds sind für den Online-Parteitag unbeachtlich.
+        Für die Dauer der aus dem Verantwortungsbereich der Versammlungsleitung stammenden Störung ist der Online-Parteitag zu unterbrechen, sofern das betroffene Mitglied dies verlangt oder die Versammlungsleitung es für sachdienlich erachtet.
+        Die einfache Mehrheit der abstimmenden Mitglieder kann bestimmen, dass der Online-Parteitag trotz der Störung fortgeführt werden soll.
+        In jedem Fall ist ein Online-Parteitag zu unterbrechen, wenn eine Antragsbefassung oder die Abstimmung über Anträge gänzlich unmöglich wird; ist die Unmöglichkeit nicht zu beseitigen, so sind die betroffenen Anträge auf den nächsten Parteitag zu vertagen.
+    (4)
+        Kommt ein Abstimmungsergebnis (Annahme oder Ablehnung des Antrages) während eines Störungsfalles bei einem Mitglied zustande, so ist das Abstimmungsergebnis nur anfechtbar, wenn es durch ordnungsgemäße Stimmabgabe des Mitgliedes anders ausgefallen wäre.
+
+§ 14 Schlussbestimmung
+    Sich durch die Änderung dieser Geschäftsordnung ergebende Änderungen von Fristen und Voraussetzungen für die Antragstellung gelten nicht auf dem Online-Parteitag, auf dem sie beschlossen wurden.
