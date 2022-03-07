@@ -18,9 +18,9 @@ A | Allgemeines
         (2)
             Abweichend von § 8 Abs. 1 der allgemeinen Wahlordnung von Volt Deutschland besteht die Zählkommission, bei der Wahl von Kandidierenden für staatliche Wahlen durch eine Vertreter-/Mitgliederversammlung zu der nicht mehr als 10 wahlberechtigte Parteimitglieder eingeladen sind, aus einem/einer Leiter*in und einer weiteren Person.
 
-    § 4 - Wahlen auf Online Parteitagen
-        Tagt der Landesparteitag als Online-Parteitag, können geheim durchzuführende Wahlen, soweit sie ordnungsgemäß in der Einladung angekündigt wurden, auch als Nicht-Präsenzwahl durchgeführt werden.
-        Hierüber beschließt der Online-Parteitag mit einer Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
+    § 4 - Wahlen auf Online Landesparteitagen
+        Tagt der Landesparteitag als Online-Landesparteitag, können geheim durchzuführende Wahlen, soweit sie ordnungsgemäß in der Einladung angekündigt wurden, auch als Nicht-Präsenzwahl durchgeführt werden.
+        Hierüber beschließt der Online-Landesparteitag mit einer Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
         Sodann beschließt er mit einfacher Mehrheit der abgegebenen gültigen Stimmen, ob die Wahlen entweder vollständig im Wege der Briefwahl oder im Wege der elektronischen Kommunikation mit anschließender Briefwahl durchgeführt werden.
         Für die Durchführung der unterschiedlichen Wahlverfahren gilt:
             1.
@@ -30,8 +30,8 @@ A | Allgemeines
                 Erfolgt die Wahl im Wege der Online-Abstimmung mit anschließender Schlussabstimmung per Briefwahl, so behalten die für die jeweiligen Ämter vorgesehenen Wahlverfahren für die Durchführung der Online-Abstimmung ihre Gültigkeit.
                 Ist eine technische Umsetzung des konkreten Wahlverfahrens nicht möglich, kann die Versammlung beschließen, die Online-Wahl stattdessen im Wege der Einzelwahl nach § 19 der Allgemeinen Wahlordnung von Volt Deutschland durchzuführen.
                 Die Ergebnisse der Online-Abstimmung sind für jede*n gewählte*n Kandidat*in im Wege der Briefwahl zu bestätigen (Schlussabstimmung).
-                Wird ein*e Kandidat*in nicht bestätigt, so ist die Wahl für dieses Amt auf dem nächsten Parteitag zu wiederholen.
-                Die Vorstellung der Kandidierenden erfolgt jeweils im Rahmen des Online-Parteitages mittels geeigneter elektronischer Kommunikationsmitteln.
+                Wird ein*e Kandidat*in nicht bestätigt, so ist die Wahl für dieses Amt auf dem nächsten Landesparteitag zu wiederholen.
+                Die Vorstellung der Kandidierenden erfolgt jeweils im Rahmen des Online-Landesparteitags mittels geeigneter elektronischer Kommunikationsmitteln.
                 Über die Einzelheiten der Durchführung der Briefwahl beschließt die Versammlung.
                 Den Stimmberechtigten ist dabei insbesondere eine angemessene Mindestfrist zum Rückversand der Briefwahlunterlagen einzuräumen, die jedenfalls 10 Tage ab dem Tag der Versammlung nicht unterschreiten darf.
                 Die Anwendbarkeit dieses Paragrafen steht unter Vorbehalt der gesetzlichen Zulässigkeit.
@@ -43,7 +43,7 @@ B | Wahlen des Landesvorstands
 
     § 6 - Wahl der Vorsitzenden
         (1)
-            Die Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland..
+            Die Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland.
             Ist eine Person zum / zur Vorsitzenden gewählt, so sind zur Wahl des zweiten Amts des / der Vorsitzenden nur die Wahlbewerber*innen zugelassen, die nicht dem Geschlecht des / der bereits gewählten Vorsitzenden angehören.
         (2)
             Bewerben sich Wahlbewerber*innen nur zweier Geschlechter auf das Amt der KoVorsitzenden, so erfolgen die Wahlen der Ko-Vorsitzenden nach Geschlechtern getrennt in geheimer Einzelwahl nach § 19 der allgemeinen Wahlordnung von Volt Deutschland..
@@ -62,11 +62,11 @@ B | Wahlen des Landesvorstands
 
 C | Wahl der Landesdelegierten für den Bundesparteitag
 
-    § 9 - Wahlsystem
+    § 9 - Wahlverfahren
         (1)
             Die Wahl der Landesdelegierten für den Bundesparteitag nach § 15 der Satzung von Volt Deutschland findet auf mindestens einmalig in jedem Jahr auf einem ordentlichen Landesparteitag des Landesverbands statt.
             Die Frist zur Bewerbung als Landesdelegierten für den Bundesparteitag folgt der Frist für Sachanträge.
-            Der Landesparteitag kann durch einen Geschäftsordnungsantrag, welcher mit zweidrittel Mehrheit angenommen werden muss, auch noch Kandidaturen auf dem Parteitag zulassen.
+            Der Landesparteitag kann durch einen Geschäftsordnungsantrag, welcher mit zweidrittel Mehrheit angenommen werden muss, auch noch Kandidaturen auf dem Landesparteitag zulassen.
         (2)
             Die Wahl findet durch ein auf der Versammlung zu beschließenden Verfahren statt, welches eine Vorabliste wählt, welche dann durch die in § 10 beschriebene Schlussabstimmung, mit einfacher Mehrheit beschlossen wird.
             Die Versammlungsleitung schlägt hierfür ein Wahlverfahren vor.
@@ -85,3 +85,4 @@ C | Wahl der Landesdelegierten für den Bundesparteitag
         (1)
             Über die, durch die nach § 9 gewählte Vorabliste, wird in einer abschließenden Schlussabstimmung, ohne Debatte, abgestimmt.
             Die Möglichkeit Änderungsanträge für die Schlussabstimmung zu stellen besteht nicht.
+

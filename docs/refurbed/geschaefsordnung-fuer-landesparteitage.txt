@@ -11,24 +11,26 @@ Präambel
     (1)
         Stimmberechtigt ist jedes zum Zeitpunkt der Mandatsprüfung aufgenommene, auf dem Landesparteitag anwesende Mitglied des Landesverbands, soweit sich nicht aus den geltenden Gesetzen, der Satzung des Landesverbands oder einer einschlägigen Wahlordnung etwas anderes ergibt.
     (2)
-        Die Mandatsprüfung auf Landesparteitagen erfolgt durch die Mandatsprüfungskommission, die vom Landesvorstand berufen wird und mindestens drei Mitglieder hat. Die Prüfung erfolgt durch eine Ausweiskontrolle und den Abgleich mit der Mitgliederliste des Landesverbands. Sie stellt die Stimmberechtigung fest.
+        Die Mandatsprüfung auf Landesparteitagen erfolgt durch die Mandatsprüfungskommission, die vom Landesvorstand berufen wird und mindestens drei Mitglieder hat.
+        Die Prüfung erfolgt durch eine Ausweiskontrolle und den Abgleich mit der Mitgliederliste des Landesverbands.
+        Sie stellt die Stimmberechtigung fest.
     (3)
         Die Mandatsprüfung ist in geeigneter Form zu dokumentieren und beim Landesverband zu hinterlegen.
     (4)
-        Der Landesparteitag ist nach § 14 Abs. 7 der Satzung unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
+        Der Landesparteitag ist nach § 14 Abs. 8 der Satzung unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
 
 § 2 - Versammlungsleitung
     (1)
         Der Landesvorstand schlägt eine Versammlungsleitung vor.
         Der Landesparteitag wählt die Versammlungsleitung mit einfacher Mehrheit in offener Abstimmung.
-        Die Mitglieder der Versammlungsleitung dürfen nicht dem Vorstand angehören.
-        Findet sich keine einfache Mehrheit für den Vorschlag des Landesvorstandes, ist jeder stimmberechtigte Versammlungsteilnehmer vorschlagsberechtigt.
+        Die Mitglieder der Versammlungsleitung dürfen nicht dem Landesvorstand angehören.
+        Findet sich keine einfache Mehrheit für den Vorschlag des Landesvorstands, ist jeder stimmberechtigte Versammlungsteilnehmer vorschlagsberechtigt.
     (2)
-        Die Versammlungsleitung besteht aus einem/einer Vorsitzenden sowie einem/einer Schriftführer/in.
-        Bei Bedarf kann die Versammlung zusätzlich bis zu zwei stellvertretende Versammlungsleiter*innen sowie bis zu eine/einen stellvertretende*n Schriftführer*in bestimmen.
+        Die Versammlungsleitung besteht aus einem / einer Vorsitzenden sowie einem / einer Schriftführer*in.
+        Bei Bedarf kann die Versammlung zusätzlich bis zu zwei stellvertretende Versammlungsleiter*innen sowie bis zu eine / einen stellvertretende*n Schriftführer*in bestimmen.
 
     (3)
-        Die Versammlungsleitung leitet die Durchführung des Landesparteitages nach gültiger Satzung und dieser Geschäftsordnung; sie leitet die Debatte sachorientiert.
+        Die Versammlungsleitung leitet die Durchführung des Landesparteitags nach gültiger Satzung und dieser Geschäftsordnung; sie leitet die Debatte sachorientiert.
         Sie leitet die Abstimmungen und die Wahlen, sofern nicht die einschlägige Wahlordnung etwas anderes bestimmt.
         Sie entscheidet über Zulassung von Anträgen, sofern die Geschäftsordnung keine Regelung vorsieht.
         Sie führt die Redner*innen-Liste, erteilt das Wort und kann dieses entziehen.
@@ -36,7 +38,7 @@ Präambel
 
 § 3 - Antragskommission
     (1)
-        Der Vorstand beruft mit der Einladung für den Landesparteitag eine Antragskommission, die aus mindestens zwei Mitgliedern besteht, hierbei dürfen nicht mehr als die Hälfte der Mitglieder dem Landesvorstand angehören.
+        Der Landesvorstand beruft mit der Einladung für den Landesparteitag eine Antragskommission, die aus mindestens zwei Mitgliedern besteht, hierbei dürfen nicht mehr als die Hälfte der Mitglieder dem Landesvorstand angehören.
     (2)
         Die Antragskommission prüft alle eingegangenen Anträge auf deren frist- und formgerechten Eingang, entscheidet gemäß Satzung und Geschäftsordnung über ihre Zulassung und informiert die Parteimitglieder nach § 16 Abs. 6 der Satzung.
     (3)
@@ -57,25 +59,27 @@ Präambel
 § 5 - Antragsstellung
     (1)
         Antragsberechtigt sind:
-            - der Vorstand des Landesverbandes
-            - der Schatzmeister des Landesverbands für in seine nach der Finanzordnung festgelegten Aufgabenbereiche fallenden Anträge
+            - der Vorstand des Landesverbands
+            - der / die Schatzmeister*ìn des Landesverbands für in seine / ihre nach der Finanzordnung festgelegten Aufgabenbereiche fallenden Anträge
             - die Vorstände der Kreisverbände im Gebiet des Landesverbandes
             - die Mitgliederversammlungen der Kreisverbände im Gebiet des Landesverbandes
             - eine Gruppe von mindestens drei Mitgliedern des Landesverbands
             - die Antragskommission
     (2)
-        Die Antragsteller nach Absatz 1 sollen eine Person und eine*n Stellvertreter*in zur Vorstellung und Begründung des Antrages bestimmen.
-        Sie sollen zudem eine Person und ein*e Stellvertreter*in bestimmen, die berechtigt ist, im Namen der Antragsteller über den Antrag zu verfügen; umfasst ist insbesondere das Recht, den Antrag zurückzuziehen, sowie Änderungsanträge zu übernehmen
+        Die Antragsteller*innen nach Absatz 1 sollen eine Person und eine*n Stellvertreter*in zur Vorstellung und Begründung des Antrages bestimmen.
+        Sie sollen zudem eine Person und eine*n Stellvertreter*in bestimmen, die berechtigt sind, im Namen der Antragsteller*innen über den Antrag zu verfügen; umfasst ist insbesondere das Recht, den Antrag zurückzuziehen, sowie Änderungsanträge zu übernehmen.
     (3)
         Anträge sind in der Regel vor Beginn des Landesparteitags schriftlich bei der Antragskommission, danach bei der Versammlungsleitung einzureichen.
         Geschäftsordnungsanträge sind stets bei der Versammlungsleitung einzureichen.
     (4)
         Für die Einreichung von Anträgen zur Änderung der Tagesordnung, Sachanträgen und Wahlvorschlägen gelten die Bestimmungen des § 14 Abs. 5 und 6 der Satzung.
+    (5)
+        Antragsberechtigt für Änderungsanträge auf dem Landesparteitags ist jedes Mitglied.
 
 § 6 - Sachanträge
     (1)
-        Sachanträge sind Anträge, die darauf gerichtet sind, die inhaltliche Befassung des Landesparteitages mit einem bestimmten Gegenstand herbeizuführen.
-        Sie können auf eine Beschlussfassung des Landesparteitages über einen solchen Gegenstand gerichtet sein (Beschlussantrag).
+        Sachanträge sind Anträge, die darauf gerichtet sind, die inhaltliche Befassung des Landesparteitags mit einem bestimmten Gegenstand herbeizuführen.
+        Sie können auf eine Beschlussfassung des Landesparteitags über einen solchen Gegenstand gerichtet sein (Beschlussantrag).
     (2)
         Änderungsanträge sind Anträge, die sich auf den Gegenstand eines Beschlussantrags beziehen, der bereits Gegenstand der Tagesordnung ist, und von der Beschlussvorlage abweichen.
         Sie sind in der Regel vor Befassung des Antrages, auf den sie sich beziehen, schriftlich auf dem Landesparteitag einzubringen.
@@ -115,7 +119,7 @@ Präambel
         Der Landesparteitag fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit in der Satzung oder dieser Geschäftsordnung nicht etwas anderes bestimmt ist.
         Stimmenthaltungen und ungültig abgegebene Stimmen zählen als nicht abgegebene Stimmen.
     (3)
-        Für die Auszählung der abgegebenen Stimmen bei schriftlichen Abstimmungen wird zu Beginn des Landesparteitages eine Zählkommission mit mindestens drei Mitgliedern auf Vorschlag der Versammlungsleitung gewählt.
+        Für die Auszählung der abgegebenen Stimmen bei schriftlichen Abstimmungen wird zu Beginn des Landesparteitags eine Zählkommission mit mindestens drei Mitgliedern auf Vorschlag der Versammlungsleitung gewählt.
         Die Mitglieder der Zählkommission dürfen auf dem Landesparteitag nicht für ein Amt oder eine Kandidatur für staatliche Wahlen kandidieren
     (4)
         Die Versammlungsleitung kann eindeutige Mehrheiten durch Augenschein feststellen.
@@ -158,15 +162,15 @@ Präambel
     (1)
         Gemäß § 13 Absatz 6 der Satzung kann der Landesparteitag Nicht-Mitgliedern das Rederecht erteilen.
     (2)
-        Landesparteitage stehen Vertretern/Vertreterinnen der Presse offen.
-        Ein temporärer Ausschluss der Presse ist nur durch Antrag des Landesvorstandes und Abstimmung mit einer qualifizierten Mehrheit, mit einem Quorum von zwei Dritteln der anwesenden Stimmberechtigten möglich.
+        Landesparteitage stehen Vertreter*innen der Presse offen.
+        Ein temporärer Ausschluss der Presse ist nur durch Antrag des Landesvorstands und Abstimmung mit einer qualifizierten Mehrheit, mit einem Quorum von zwei Dritteln der anwesenden Stimmberechtigten möglich.
 
 § 13 - Protokoll
     (1)
-        Über die Ergebnisse des Landesparteitages und Sitzungen ist ein Protokoll zu erstellen, das spätestens nach 28 Tagen den Mitgliedern zur Kenntnis gegeben wird.
-        Einsprüche zum Protokoll sind an den Vorstand zu richten und bis zu 4 Wochen nach Veröffentlichung möglich, danach gilt das Protokoll als genehmigt.
+        Über die Ergebnisse des Landesparteitags und Sitzungen ist ein Protokoll zu erstellen, das spätestens nach 28 Tagen den Mitgliedern zur Kenntnis gegeben wird.
+        Einsprüche zum Protokoll sind an den Landesvorstand zu richten und bis zu 4 Wochen nach Veröffentlichung möglich, danach gilt das Protokoll als genehmigt.
     (2)
-        Die Protokollierung obliegt den Schriftführern/Schriftführerinnen.
+        Die Protokollierung obliegt den Schriftführer*innen.
 
 § 14 - Sonstiges
     Für die Landesparteitage übt die Sitzungsleitung, im Übrigen der Landesvorstand das Hausrecht aus; im Falle der Anmietung von Räumlichkeiten erfolgt die Ausübung des Hausrechts unter Wahrung der Interessen des Vermieters.
